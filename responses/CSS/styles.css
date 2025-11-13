@@ -10,6 +10,7 @@ img {
     display: block;
     margin: auto;
     width: 100%;
+    
 }
 a {
     color:#0D0D0D;
@@ -66,7 +67,49 @@ main{
     margin-bottom: 20px;
 }
 .col {
-    margin: 10px 0;
-    border: 2px solid #8FA285;
+    margin: 20px 0;
+}
+
+.col img {
+border:  solid #8FA285;
     border-radius: 8px;
 }
+
+footer
+{
+    padding: 40px;
+    text-align: center;
+
+}
+
+/* tablet styles */
+@media only screen and (min-width: 600px) {
+    nav {
+        padding: 10px 50px;
+    }
+    nav li {
+        display: inline-block;
+        margin: 0 15px;
+    }
+    nav li a {
+        display: inline-block;
+        width: 150px;
+        height: 40px;
+    }
+}
+.col img {
+    width: 65%;
+
+}
+
+/* Desktop styles */
+@media only screen and (min-width: 1025px) {
+    #container {
+        width: 65%;
+        margin: 20px auto;
+        background-color: #5B6B50;
+    }
+    
+    .past_works {
+        display: flex;
+    }
