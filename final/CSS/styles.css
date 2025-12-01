@@ -12,7 +12,7 @@ margin: 3% auto;
 border: solid 4px #B7A371;
 width: 100%;
 border-radius: 15px;
-padding: auto;
+padding: 5px 0;
 
 }
 hr{
@@ -20,14 +20,14 @@ hr{
     margin: 20px 0;
 }
 .history_aside { 
-    display: flex auto;
+    display: flex;
     justify-content: center;
     background-color: #DAF3ED;
     
     
 }
 .costume_aside {
-    display: flex auto;
+    display: flex;
     justify-content: center;
     background-color: #DAF3ED;
 }
@@ -73,8 +73,8 @@ nav li {
 nav li a {
     display: block;
     background-color: #1E5359;
-    height: 45px auto;
-    line-height: 45px auto;
+    height: 45px;
+    line-height: 45px;
     text-decoration: none;
     font-size: 25px ;
     margin: 15px 0;
@@ -98,10 +98,10 @@ font-size: 200%;}
 
 .main_content {
     background-color: #DAF3ED;
-    padding: 20px auto;
-    border-radius: 8px auto;
-    margin-bottom: 20px auto;
-    margin-top: 20px auto;
+    padding: 20px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 .col {
     margin: 20px 0 ;
@@ -137,8 +137,8 @@ iframe {
     }
     nav li a {
         display: inline-block;
-        width: 150px auto;
-        height: 40px auto;
+        width: 150px;
+        height: 40px;
     }
 }
 .col img {
@@ -147,7 +147,7 @@ iframe {
 footer {
     text-align: center;
     font-size: 14px;
-    padding: 20px auto;
+    padding: 20px;
     border-top: 3px solid #B7A371;
 }
 
@@ -161,7 +161,7 @@ footer {
 .col{
     border: 2px solid #1E5359;
     margin: 5px auto;
-    padding: 10px auto;
+    padding: 10px;
     border-radius: 10px;
 }
 .col img {
@@ -178,7 +178,7 @@ footer {
 section, aside {
     border: 2px solid #DAF3ED;
     margin: 5px auto;
-    padding: 10px auto;
+    padding: 10px;
     border-radius: 10px;
 
     
