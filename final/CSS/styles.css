@@ -5,15 +5,14 @@
 }
 body {
 background-color:#1E5359;
-padding: 2%;
 }
 img {
 display: block;
-margin: 3% auto;
+margin: auto;
 border: solid 4px #B7A371;
 width: 100%;
 border-radius: 15px;
-padding: 5px 0;
+padding: 5px ;
 
 }
 hr{
@@ -99,8 +98,8 @@ font-size: 200%;}
 
 .main_content {
     background-color: #DAF3ED;
-    padding: 20px;
-    border-radius: 8px;
+    padding: 10%;
+    border-radius: 2%;
     margin-bottom: 20px;
     margin-top: 20px;
 }
