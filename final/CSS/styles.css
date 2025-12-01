@@ -186,11 +186,12 @@ section, aside {
 .home_aside {
     width: 30%
 }
-.costume_section {
+.costume_aside {
     display: flex;
     align-self: center;
     width: 30%;
     height: 45%
+
     
 }
 footer {
