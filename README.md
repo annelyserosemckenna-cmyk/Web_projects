@@ -5,4 +5,5 @@
 <li><a href="HTML_css/index.html" target="_blank">Woodworking page</a><li>
 <li><a href="avd_css/index.html" target="_blank">New Woodworking page</a><li>
 <li><a href="responses/index.html" target="_blank">Woodworking page responses</a><li>
+<li><a href="final/intex.html" target="_blank">Narnia web page Final</a><li>
 </ul>
